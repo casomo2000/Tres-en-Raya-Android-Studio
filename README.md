@@ -1,4 +1,4 @@
-Proyecto Realizado por:
+Proyecto Realizado por: ------
 Carlos Soria Mora ------ 
 Alejandro Cano Segovia ------ 
 Daniel Silva Romero ------ 
