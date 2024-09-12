@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_text_color_theme">#FFFFFF</color> <!-- Color del texto para botones con tema -->
+    <color name="button_background_color_theme">#3F51B0</color> <!-- Color de fondo para botones con tema -->
+</resources>

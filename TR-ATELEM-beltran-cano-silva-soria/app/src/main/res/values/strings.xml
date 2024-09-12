@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabajo_ATELEM</string>
+    <string name="j1">TURNO DEL JUGADOR 1</string>
+    <string name="j2">TURNO DEL JUGADOR 2</string>
+    <string name="gana1">¡¡JUGADOR 1 HA GANADO!!"</string>
+    <string name="gana2">¡¡JUGADOR 2 HA GANADO!!"</string>
+    <string name="pierde">¡¡HAS PERDIDO!!"</string>
+    <string name="empate">¡¡EMPATE!!"</string>
+</resources>
